@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@adonisjs/assembler": "^5.4.1",
-    "@symfony/webpack-encore": "^1.8.1",
+    "@symfony/webpack-encore": "^4.1.1",
     "adonis-preset-ts": "^2.1.0",
     "file-loader": "^6.2.0",
     "pino-pretty": "^7.5.0",
